@@ -1,0 +1,37 @@
+img {
+    width: 530px;
+    height: 500px;
+    border-radius: 300px;
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+mark {
+    background-color: rgb(136, 169, 231);
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: midnightblue;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(226, 180, 164);
+}
+
+div {
+    margin-left: 1450px;
+    width: 540px;
+    text-align: justify;
+    height: 250px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 25px;
+    color: midnightblue;
+    
+}
